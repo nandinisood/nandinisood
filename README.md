@@ -1,4 +1,4 @@
-# Hi, I'm Nandini 🙋🏻‍ 👩🏻‍💻
+# Hey there, I'm Nandini 🙋🏻‍ 👩🏻‍💻
 
 ```
 cout<<"Hello, World!";
