@@ -13,5 +13,3 @@ cout<<"Hello, World!";
 [1]: https://twitter.com/_nandinisood_
 [2]: https://www.linkedin.com/in/nandinisood/--->
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-
